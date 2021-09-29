@@ -1,6 +1,5 @@
 package org.greatlearning.dicegame;
 
-import com.sun.tools.javac.tree.DCTree;
 import org.greatlearning.dicegame.model.Dice;
 import org.greatlearning.dicegame.strategy.model.DiceGameStrategy;
 import org.greatlearning.dicegame.strategy.GLGameStrategy;
